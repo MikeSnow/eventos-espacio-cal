@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventos-espacio//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Eventos espacio
+BEGIN:VEVENT
+UID:83b95408382204a2@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270219
+SUMMARY:SSSIF 2027 – Small Satellites & Services International Forum
+DESCRIPTION:Abstract 300 palabras\, 2 figuras\, 5 refs\; si aceptan\, prese
+ ntación (oral 15 min o póster A0)\; sin actas. Fuente: https://sssif.com
+ /call-for-papers/
+LOCATION:Málaga\, España
+END:VEVENT
+BEGIN:VEVENT
+UID:435ba22a18eeafaf@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:ISAM Conference 2027 (In-Orbit Servicing\, Assembly & Manufacturing
+ )
+DESCRIPTION:Sin call de abstracts publicado\; keynotes\, mesas y talleres. 
+ Fuente: https://isamconference.co.uk/
+LOCATION:Londres (ExCeL)\, Reino Unido
+END:VEVENT
+BEGIN:VEVENT
+UID:7a842e8e944cb784@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270226
+SUMMARY:Space-Comm Expo Europe 2027
+DESCRIPTION:Feria\; asistencia. Fuente: https://isamconference.co.uk/
+LOCATION:Londres (ExCeL)\, Reino Unido
+END:VEVENT
+BEGIN:VEVENT
+UID:032bf69112e41094@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270521
+SUMMARY:ASCEND 2027 (AIAA)
+DESCRIPTION:Resumen extendido\; si aceptan\, manuscrito completo AIAA. Fuen
+ te: paper-ascend-2027/README.md
+LOCATION:Washington DC\, EE. UU.
+END:VEVENT
+BEGIN:VEVENT
+UID:7eef5e2a0f50857f@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270604
+SUMMARY:SmallSat Europe 2027
+DESCRIPTION:Abstract\; decisión 5-03\; artículo completo 30-04 para actas
+ . Fuente: https://form.jotform.com/260493370864160
+LOCATION:Ámsterdam (RAI)\, Países Bajos
+END:VEVENT
+BEGIN:VEVENT
+UID:4bf7297cfedbeb74@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270927
+DTEND;VALUE=DATE:20271002
+SUMMARY:IAC 2027 – 78th International Astronautical Congress
+DESCRIPTION:Abstract de 400 palabras en la plataforma de la IAF\; artículo
+  completo si aceptan. Fuente: https://www.iafastro.org/assets/files/events
+ /iac/2027/IAC2027_Call_for_papers.pdf
+LOCATION:Poznań\, Polonia
+END:VEVENT
+BEGIN:VEVENT
+UID:136cde3c3a854e32@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271119
+SUMMARY:Space Tech Expo Europe 2027
+DESCRIPTION:Call for speakers (el de 2026 cerró el 11 may). Fuente: https:
+ //www.spacetechexpo-europe.com/conference/call-for-speakers
+LOCATION:Bremen\, Alemania
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb9ae71bfe39b78@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20271129
+DTEND;VALUE=DATE:20271203
+SUMMARY:CEAS Aerospace Europe Conference 2027
+DESCRIPTION:Por publicar. Fuente: https://ceas.org/index.php/ceas-events-ae
+ rospace-europe-conference/
+LOCATION:Augsburgo\, Alemania
+END:VEVENT
+BEGIN:VEVENT
+UID:26ec96ff1e3251f5@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:ASCEND 2027: Notificación de aceptación
+DESCRIPTION:Notificación de aceptación
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASCEND 2027: Notificación de aceptación
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75f9f1496a945ba7@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:SmallSat Europe 2027: Plazo de abstract (sin verificar)
+DESCRIPTION:Plazo de abstract (sin verificar)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SmallSat Europe 2027: Plazo de abstract (sin verificar)
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SmallSat Europe 2027: Plazo de abstract (sin verificar)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:40fbb5ca7f80761a@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:IAC 2027: Propuestas de sesión especial
+DESCRIPTION:Propuestas de sesión especial
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IAC 2027: Propuestas de sesión especial
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf59f4543bd8b714@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:IAC 2027: Plazo de abstract (400 palabras)
+DESCRIPTION:Plazo de abstract (400 palabras)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IAC 2027: Plazo de abstract (400 palabras)
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:IAC 2027: Plazo de abstract (400 palabras)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8bba2eef97e65f5d@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:SmallSat Europe 2027: Decisión de aceptación
+DESCRIPTION:Decisión de aceptación
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SmallSat Europe 2027: Decisión de aceptación
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1cfa9da71be16e77@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:ASCEND 2027: Manuscrito final (20:00 ET)
+DESCRIPTION:Manuscrito final (20:00 ET)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASCEND 2027: Manuscrito final (20:00 ET)
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:ASCEND 2027: Manuscrito final (20:00 ET)
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fa054fe6f5994a1b@eventos-espacio
+DTSTAMP:20261117T120113Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:SmallSat Europe 2027: Artículo completo para actas
+DESCRIPTION:Artículo completo para actas
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SmallSat Europe 2027: Artículo completo para actas
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SmallSat Europe 2027: Artículo completo para actas
+TRIGGER:-P7D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
